@@ -1,0 +1,20 @@
+<!doctype html>
+<title>10.29.14.23/WAT/wat9.php</title>
+<style>h2,h3{color:red;} form{margin:50px 500px 100px 400px} a{border-radius:5px;border:1px solid white;padding:10px 20px 4px 20px;float:left;background-color:black;color:white;text-decoration:none;} a:hover{background-color:green;text-decoration:none;} p{background-color:black;} .nvk{border:2px solid green; width:100%; height:32px; background-color:black;}</style>
+<p><img src="/home/student/Music/images.jpeg" width="100" height="100" align="left"><center><h2>Rajiv Gandhi University Of Knowledge Technologies</h2><h3>catering to the Educational Needs of Gifted Rural Youth of A.P</h3></p>
+<h2></h2>
+<br>
+<div class="nvk">
+<a href="">Home</a>
+<a href="/home/student/Videos/new/examfiles/exam.html">Results</a>
+<a href="">Seating</a>
+<a href="">Consolidated-Results</a>
+<a href="">Registerd Subjects</a>
+<a href="/home/student/Videos/new/exampaper.html">Logout</a>
+</div>
+<br>
+<br>
+<marquee><h2>Rajiv Gandhi University Of Knowledge Technologies</h2></marquee>
+<br>
+<br>
+<marquee direction="left;"><h3 style="color:lime;">catering to the Educational Needs of Gifted Rural Youth of A.P</h3></marquee>

@@ -1,0 +1,49 @@
+<!doctype html>
+<style>table,th,td{border-collapse:collapse;} form{margin:200px 0px 0px 200px;position:absolute;}</style>
+<form  action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="POST" >
+<input type="text" name="username" optional value="hii"></input>
+<select name="userone">
+<option value="--">--</option>
+<option value="1" >1</option>
+<option value="2" >2</option>
+<option value="3" >3</option>
+<option value="4" >4</option>
+</select>
+<input type="submit" value="submit"></input>
+</form>
+<script>
+function rightclick(){
+return false;
+}
+document.oncontextmenu=rightclick;
+document.onselectstart=select;
+function select(){
+	return false;}
+</script>
+<?php
+session_start();
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+$user=$_POST['username'];
+echo $_SESSION['username1'];
+$choice=$_POST['userone'];
+$host="localhost";
+$username="root";
+$password="";
+$dbname="test2";
+$conn=new mysqli($host,$username,$password,$dbname);
+$select="SELECT userid,choice FROM test2table3";
+$sql=$conn->query($select);
+while($row=$sql->fetch_assoc()){
+	if($row['userid']==$user && $row['choice']==$choice){
+		die("LOGIN successful");}}
+die("LOGIN NOT SUCCESSFUL");}
+	
+
+?>
+<h4 style="float:left;" ><?php echo "DATE:". date("Y-m-d") . "<br>";?></h4>
+
+
+
+
+
+

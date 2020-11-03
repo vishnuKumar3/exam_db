@@ -1,0 +1,103 @@
+<!doctype html>
+<title>10.29.14.23/WAT/wat9.php</title>
+<style>h2,h3{color:red;} form{margin:50px 500px 100px 400px} a{border-radius:5px;border:1px solid white;padding:7px 20px 7px 20px;float:left;background-color:black;color:white;text-decoration:none;} a:hover{background-color:green;text-decoration:none;} p{background-color:black;} .nvk{border:2px solid green;background-color:black;width:100%;height:34px;border-radius:5px} img{opacity:1.0;}
+.dropdown{display: inline-block;float: left;}
+.content{display: none;width:80px;background-color: green;border:30px white;}
+.dropdown:hover .content{display: block;border-radius:5px;}</style>
+<p><img src="/home/student/Music/images.jpeg" width="100" height="100" align="left"><center><h2>Rajiv Gandhi University Of Knowledge Technologies</h2><h3>catering to the Educational Needs of Gifted Rural Youth of A.P</h3></p>
+<h2></h2>
+<br>
+<div class="nvk">
+<a href=/home/student/Videos/new/examfiles/examstart.html style="background-color:green;">Home</a>
+<div class="dropdown">
+<a href="">Results</a>
+<div class="content">
+<a href="">wat-></a>
+<a href="">Mid-1</a>
+<a href="">Mid-2</a>
+</div>
+</div>
+<a href=>Seating</a>
+<a href=>Consolidated-Results</a>
+<a href=>Registerd</a>
+<a href="/home/student/Videos/new/exampaper.html">Logout</a> 
+</div>
+<br>
+<form>
+<table border="2px" style="width:100%">
+<tr>
+<th style="background-color:#eee">Student Roll No</th>
+<td>R171066</td>
+</tr>
+<tr>
+<th style="background-color:#eee">Student Name</th>
+<td>NARAYANA VISHNU KUMAR</td>
+</tr>
+<tr>
+<th style="background-color:#eee">Branch Name</th>
+<td>P1S1Wat-9</td>
+</tr>
+<tr>
+<th style="background-color:#eee">Academic Year</th>
+<td>AY18-19</td>
+</tr>
+</form>
+<form>
+<table border="2px" style="width:150%">
+<tr style="background-color:black;">
+<th style="color:white;">SCode</th>
+<th style="color:white;width:70%">Subject</th>
+<th style="color:white">Marks</th>
+</tr>
+<tr style="color:blue;">
+<td>-</td>
+<td>ENGLISH</td>
+<td align="center">0</td>
+</tr>
+<tr style="color:blue;">
+<td>-</td>
+<td>MATHS</td>
+<td align="center">0</td>
+</tr>
+<tr style="color:blue;">
+<td>-</td>
+<td>PHYSICS</td>
+<td align="center">0</td>
+</tr>
+<tr style="color:blue;">
+<td>-</td>
+<td>CHEMISTRY</td>
+<td align="center">0</td>
+</tr>
+<tr style="color:blue;">
+<td>-</td>
+<td>IT</td>
+<td align="center">0</td>
+</tr>
+<tr style="color:blue;">
+<td>-</td>
+<td>BIOLOGY</td>
+<td align="center">0</td>
+</tr>
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
